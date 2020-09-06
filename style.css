@@ -1,0 +1,20 @@
+body{
+    background: #DAA520;
+}
+
+#frm{
+    border: solid gray 1px;
+    width: 20%;
+    border-radius: 5px;
+    margin: 100px auto;
+    background: hotpink;
+    padding: 50px;
+
+}
+
+#btn{
+    color: #A52A2A;
+    background: indianred;
+    padding: 5px;
+    margin-left: 69%;
+}
